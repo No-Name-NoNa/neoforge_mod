@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "testid:block/gray_block"
+    }
+  }
+}

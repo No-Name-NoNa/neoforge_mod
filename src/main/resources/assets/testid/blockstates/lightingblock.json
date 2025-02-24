@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "charge=0": {
+      "model": "testid:block/lightingblock"
+    },
+    "charge=1": {
+      "model": "testid:block/lightingblock1"
+    },
+    "charge=2": {
+      "model": "testid:block/lightingblock1"
+    },
+    "charge=3": {
+      "model": "testid:block/lightingblock1"
+    },
+    "charge=4": {
+      "model": "testid:block/lightingblock1"
+    },
+    "charge=5": {
+      "model": "testid:block/lightingblock1"
+    },
+    "charge=6": {
+      "model": "testid:block/lightingblock1"
+    },
+    "charge=7": {
+      "model": "testid:block/lightingblock1"
+    },
+    "charge=8": {
+      "model": "testid:block/lightingblock1"
+    },
+    "charge=9": {
+      "model": "testid:block/lightingblock2"
+    },
+    "charge=10": {
+      "model": "testid:block/lightingblock2"
+    },
+    "charge=11": {
+      "model": "testid:block/lightingblock2"
+    },
+    "charge=12": {
+      "model": "testid:block/lightingblock2"
+    },
+    "charge=13": {
+      "model": "testid:block/lightingblock2"
+    },
+    "charge=14": {
+      "model": "testid:block/lightingblock2"
+    },
+    "charge=15": {
+      "model": "testid:block/lightingblock2"
+    }
+  }
+}

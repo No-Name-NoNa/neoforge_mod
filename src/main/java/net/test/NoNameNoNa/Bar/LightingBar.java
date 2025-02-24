@@ -33,7 +33,6 @@ public class LightingBar{
         };
     }
 
-    // 添加玩家
     public void addPlayers() {
         Set<ServerPlayer> set = Sets.newHashSet(this.raidEvent.getPlayers());
         List<ServerPlayer> list = this.level.getPlayers(this.validPlayer());
@@ -45,7 +44,6 @@ public class LightingBar{
         }
     }
 
-    // 移除玩家
     public void removePlayers() {
         Set<ServerPlayer> set = Sets.newHashSet(this.raidEvent.getPlayers());
         List<ServerPlayer> list = this.level.getPlayers(this.validPlayer());

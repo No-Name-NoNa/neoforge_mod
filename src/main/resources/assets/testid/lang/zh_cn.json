@@ -1,0 +1,11 @@
+{
+  "item.testid.raw_first_food": "生一肉",
+  "item.testid.first_food": "一肉",
+  "item.testid.upcontroller": "亮度增幅器",
+  "item.testid.downcontroller": "亮度衰减器",
+  "item.testid.showcontroller": "亮度显示器",
+  "item.testid.buttoncontroller": "按钮触摸器",
+  "block.testid.lightingblock": "灯具",
+  "itemGroup.testid": "MOD物品",
+  "lightinglevel": "光照等级"
+}
